@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+p,
+h2 {
+  color: white;
+  background-color: black;
+}
+
+h2 {
+  display: inline block;
+  width: 14%;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 300px;
+}
+p {
+  padding: 35px;
+  font-size: 20px;
+  margin: 0;
+}
+
+.intro {
+  padding: 55px;
+  font-size: 18px;
+  text-align: justify;
+  line-height: 30px;
+}
+
+.white {
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.first {
+  background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/20210402175040/back22.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 300px;
+}
+
+.second {
+  background-image: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.padding {
+  padding-top: 300px;
+}
