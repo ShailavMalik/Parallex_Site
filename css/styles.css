@@ -11,7 +11,7 @@ h2 {
 
 h2 {
   display: inline block;
-  width: 14%;
+  width:9em;
   margin: auto;
   padding: 10px;
   margin-bottom: 300px;
@@ -37,7 +37,7 @@ p {
 }
 
 .first {
-  background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/20210402175040/back22.jpg");
+  background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,7 +45,7 @@ p {
 }
 
 .second {
-  background-image: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-image: url("https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
